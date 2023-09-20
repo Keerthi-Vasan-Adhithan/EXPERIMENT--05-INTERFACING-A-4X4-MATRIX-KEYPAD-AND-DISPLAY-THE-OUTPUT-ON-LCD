@@ -188,7 +188,8 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
  
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- ![Screenshot 2023-09-20 144302](https://github.com/ROHITJAIND/EX-05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/118707073/eab03fab-500d-43f5-9c8f-28161e907909)
+ ![Screenshot (10)](https://github.com/Keerthi-Vasan-Adhithan/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/107488929/ed5cad01-a280-4cc0-97de-38b82251818f)
+
 
  
 ## Result :
